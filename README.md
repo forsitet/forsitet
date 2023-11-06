@@ -5,4 +5,4 @@
 ☎ Ask me about anything related to Python  
 ✏ Read more about my project at D20041152@yandex.ru  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
