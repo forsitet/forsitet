@@ -5,8 +5,8 @@
 ☎ Ask me about anything related to Python  
 ✏ Read more about my project at D20041152@yandex.ru  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D20041152)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forsitet)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://github-readme-stats.vercel.app/api?username=D20041152)
+![Profile views](https://github-readme-stats.vercel.app/api?username=forsitet)
 
-![Profile views](https://komarev.com/ghpvc/?username=D20041152)
+![Profile views](https://komarev.com/ghpvc/?username=forsitet)
